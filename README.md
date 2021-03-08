@@ -1,5 +1,5 @@
-##教育在线系统
-##### 使用技术 swagger2、mybatis plus、redis、maven
+## 教育在线系统
+##### 使用 swagger2、mybatis plus、redis、maven、spring cloud 分布式开发 、Nacos 注册中心 等
 ##### 统一返回格式
 ```
     {
@@ -9,6 +9,6 @@
     "data" : HashMap<String, Object>
     }   
 ```
-##### 使用阿里云OSS进行图片存储
-##### nginx配置项目请求转发
-##### easyexcel进行excel数据读取
+##### 阿里云OSS 、视频点播
+##### nginx请求转发
+##### easyexcel，excel数据读取
